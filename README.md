@@ -1,5 +1,5 @@
 # Face_Recognition
- Project in Python that uses OpenCV Library and does face detection over video the live video stream.
+ Project in Python that uses OpenCV Library and does face detection over the live video stream.
 
 Please feel free to fork it and raise issues if you think that something could be done better. Happy coding!!
 
